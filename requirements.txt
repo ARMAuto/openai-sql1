@@ -5,3 +5,6 @@ azure-storage-blob
 openai
 psycopg2-binary
 pandas
+Levenshtein
+llama_index
+langchain
